@@ -3,3 +3,4 @@ streamlit
 matplotlib
 pandas
 numpy
+plotly.graph_objects
