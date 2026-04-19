@@ -1,7 +1,4 @@
- import matplotlib.patches as mpatches                                  
-from matplotlib.patches import FancyArrowPatch, FancyBboxPatch         
-import streamlit as st                                                 
-import plotly.graph_objects as go                                      
-from plotly.subplots import make_subplots                              
-from reportlab.lib.pagesizes import A4                                 
-from reportlab.lib import colors  
+streamlit
+matplotlib
+plotly
+reportlab
